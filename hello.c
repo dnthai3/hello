@@ -13,7 +13,7 @@
      printf("Nguyen Hai Dang Thai!\n");
      printf("My major: Actuarial Science\n");
      printf("Jeffrey Church\n");
-     printf("My major: Computer Science\n"):
-     
+     printf("My major: Computer Science\n");
+
      return 0;
  }
