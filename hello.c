@@ -11,6 +11,6 @@
  int main (int argc, char **argv) {
 
      printf("Nguyen Hai Dang Thai!\n");
-
+     printf("My major: Actuarial Science\n");
      return 0;
  }
